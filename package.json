@@ -1,0 +1,20 @@
+{
+  "name": "asana-reminder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Andrew Kachnic (https://andrewkachnic.now.sh/)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/asana": "^0.18.0",
+    "@types/node-cron": "^2.0.3",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.2"
+  },
+  "dependencies": {
+    "asana": "^0.18.4",
+    "chalk": "^4.1.0",
+    "dotenv": "^8.2.0",
+    "node-cron": "^2.0.3",
+    "twilio": "^3.49.1"
+  }
+}
